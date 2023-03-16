@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../SPFy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Spotify New",
+		"liveServer.settings.port": 5501
+	}
+}
